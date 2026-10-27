@@ -1,4 +1,5 @@
-##Python is one of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.
+#Python is 
+e of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.
 
 A high-level language used in data science, automation, AI, web development and more.
 Known for its readability, which means code is easier to write, understand and maintain.
